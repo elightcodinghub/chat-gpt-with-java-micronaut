@@ -18,7 +18,7 @@ netty:
       max-order: 3
 
 chat-gpt:
-  secret-key: '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'
+  secret-key: '*******************************************'
   chat:
     url: 'https://api.openai.com/v1/chat/completions'
     model: 'gpt-3.5-turbo'
